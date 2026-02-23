@@ -38,8 +38,8 @@ ai_personal_trainer/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-   cd YOUR_REPOSITORY_NAME
+   git clone https://github.com/szymonbloch/ai-personal-trainer.git
+   cd ai-personal-trainer
    ```
 
 2. **Create and activate a virtual environment (Recommended):**
@@ -66,7 +66,7 @@ ai_personal_trainer/
 
 Launch the main dashboard by running:
 ```bash
-python app/app.py
+python project_code/app/app.py
 ```
 
 From the GUI, you can:
